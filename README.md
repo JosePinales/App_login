@@ -1,8 +1,6 @@
 # App_login
 Inicio de sesion.
 
-Indicaciones
-
 El primer Activity es una pantalla de Login donde encontrará los siguientes elementos visuales:
 
 Un Logo de La empresa (Componente ImageView)
